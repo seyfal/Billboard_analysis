@@ -2,12 +2,11 @@
 
 # Billboard_analysis
 
-Billboard_analysis is a data-driven application that offers insightful quantification and summarization of the Billboard "Hot 100" charts spanning from 1960 to 2020. Harness the power of this application to uncover fascinating trends, artist performances, and the legacy of songs over decades.
+Billboard_analysis is a data-driven application that offers insightful quantification and summarization of the Billboard "Hot 100" charts spanning from 1960 to 2020. 
 
 ## Overview
 
-The dataset comprises the top 50 songs from the "Hot 100" charts, distributed across three distinct time-period based files. With a user-friendly interface, you can effortlessly navigate through a suite of analysis options, each meticulously designed to unlock a unique perspective of the data.
-
+The dataset comprises the top 50 songs from the "Hot 100" charts, distributed across three distinct time-period based files. 
 ## How It Works
 
 1. **Initialization**: Upon launching the program, you're greeted with the header information and file options, delineating which era of songs you wish to explore. Choosing an option outside the provided range will terminate the program.
@@ -71,5 +70,3 @@ g++ -o Billboard_analysis main.cpp
 ./Billboard_analysis
 ```
 
-## Final Thoughts
-Billboard_analysis offers music enthusiasts, researchers, and curious minds an avenue to navigate and dissect half a century of musical history. Dive deep and uncover stories that only data can tell.
